@@ -31,14 +31,15 @@
   }
 
   .topname{
-    padding: 0px;
+    padding: 5px;
     margin: 0px;
     font: 1em;
     background-color: cadetblue;
 }
 h2{
     text-align: center;
- font-size: 1.7em ;
+ font-size: 100% ;
+ font-weight: bold;
 }
 .mini{
 width:40%;
@@ -46,7 +47,7 @@ border-radius: 50%;
 
 }
 p{
-    font-size: 110%;
+    font-size: 90%;
     font-weight: bold;
    
 }
